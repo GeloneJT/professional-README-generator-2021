@@ -2,7 +2,7 @@
 
 ## Description
 
-To create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
+To create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
 ## Table of contents
 
@@ -17,6 +17,7 @@ To create a command-line application that dynamically generates a professional R
 
 ## Installation
 
+To install dependencies run the following code
 ```
 npm i 
 npm i inquirer
@@ -24,6 +25,7 @@ npm i inquirer
 
 ## Usage
 
+To start the question prompt run the following command in the root folder of the project. i.e index.js
 ```
 node index
 ```
