@@ -22,10 +22,10 @@ function generateMarkdown(data) {
   - [Usage](#contribution)
   - [Credits](#credit)
   - [Tests](#tests)
-  - [License](#license)
   - [My Github](#github)
   - [My Email](#email)
   - [Additional ways to reach me](#reachME)
+  - [License](#license)
 
   ## Installation
   ${data.installation}
@@ -39,9 +39,6 @@ function generateMarkdown(data) {
   ## Tests
   ${data.tests}
 
-  ## License
-  ${data.license}
-
   My GitHub
   ${data.github}
 
@@ -50,6 +47,9 @@ function generateMarkdown(data) {
 
   ## Additional ways to reach me
   ${data.reachME}
+
+    ## License
+  ${data.license}
 `;
 }
 
