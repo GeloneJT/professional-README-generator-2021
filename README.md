@@ -17,11 +17,16 @@ To create a command-line application that dynamically generates a professional R
 
 ## Installation
 
-npm i
+```
+npm i 
+npm i inquirer
+```
 
 ## Usage
 
+```
 node index
+```
 
 ![How-To Use](Assets/images/ProfessionalREADMEGenHow-ToVideo.gif)
 
@@ -41,7 +46,7 @@ jelani13@icloud.com
 
 ## Additional ways to reach me
 
-Email
+https://github.com/GeloneJT
 
 ## License
 
