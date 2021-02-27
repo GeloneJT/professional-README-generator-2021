@@ -16,17 +16,17 @@ const questions = [{
 {
     type: 'input',
     name: 'installation',
-    message: 'What are the command installation instructions?'
+    message: 'What are the steps to install your project?'
 },
 {
     type: 'input',
     name: 'usage',
-    message: 'Are there any limitations for usage?'
+    message: 'Provide instructions on how to use your project and get it running?'
 },
 {
     type: 'input',
-    name: 'contribution',
-    message: 'Provide contribution guidelines if any.'
+    name: 'credit',
+    message: 'Provide a list of collaborators if any.'
 },
 {
     type: 'input',
@@ -35,7 +35,7 @@ const questions = [{
 },
 {
     type: 'list',
-    name: 'liscense',
+    name: 'license',
     message:'What kind of license?',
     choices: ['MIT', 'Apache', 'GPLv2', 'GPLv3', 'BSD 3-clause', 'Other', 'None' ]
 },
