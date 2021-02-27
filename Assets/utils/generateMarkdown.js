@@ -19,11 +19,11 @@ function generateMarkdown(data) {
 
   ## Table of contents
   - [Installation](#installation)
-  - [Usage](#contribution)
-  - [Credits](#credit)
+  - [Usage](#usage)
+  - [Credit](#credit)
   - [Tests](#tests)
-  - [My Github](#github)
-  - [My Email](#email)
+  - [GitHub](#github)
+  - [Email](#email)
   - [Additional ways to reach me](#reachME)
   - [License](#license)
 
@@ -33,16 +33,16 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
-  ## Credits
+  ## Credit
   ${data.credit}
 
   ## Tests
   ${data.tests}
 
-  My GitHub
+  GitHub
   ${data.github}
 
-  ## My Email
+  ## Email
   ${data.email}
 
   ## Additional ways to reach me
