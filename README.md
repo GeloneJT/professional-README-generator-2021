@@ -30,7 +30,13 @@ To start the question prompt run the following command in the root folder of the
 node index
 ```
 
+<hr>
+
 ![How-To Use](Assets/images/ProfessionalREADMEGenHow-ToVideo.gif)
+
+[Full Tutorial video](https://youtu.be/9BC49RP6YFY)
+
+<hr>
 
 ## Credit
 
