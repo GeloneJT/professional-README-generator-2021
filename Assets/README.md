@@ -25,7 +25,7 @@
   ## Tests
   
 
-  GitHub
+  ## GitHub
   GeloneJT
 
   ## Email
@@ -34,5 +34,5 @@
   ## Additional ways to reach me
   Email
 
-    ## License
+  ## License
   None

@@ -39,7 +39,7 @@ function generateMarkdown(data) {
   ## Tests
   ${data.tests}
 
-  GitHub
+  ## GitHub
   ${data.github}
 
   ## Email
@@ -48,7 +48,7 @@ function generateMarkdown(data) {
   ## Additional ways to reach me
   ${data.reachME}
 
-    ## License
+  ## License
   ${data.license}
 `;
 }

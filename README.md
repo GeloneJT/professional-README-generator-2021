@@ -1,38 +1,48 @@
 # Professional README Generator
 
-  ## Description
-  Use node.js to generate a readme
+## Description
 
-  ## Table of contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credit)
-  - [Tests](#tests)
-  - [My GitHub](#github)
-  - [My Email](#email)
-  - [Additional ways to reach me](#reachME)
-  - [License](#license)
+To create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
 
-  ## Installation
-  
+## Table of contents
 
-  ## Usage
-  node.index
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credit](#credit)
+- [Tests](#tests)
+- [GitHub](#github)
+- [Email](#email)
+- [Additional ways to reach me](#reachME)
+- [License](#license)
 
-  ## Credits
-  Jelani Thomas
+## Installation
 
-  ## Tests
-  
+npm i
 
-  My GitHub
-  GeloneJT
+## Usage
 
-  ## My Email
-  jelani13@icloud.com
+node index
 
-  ## Additional ways to reach me
-  Email
+![How-To Use](Assets/images/ProfessionalREADMEGenHow-ToVideo.gif)
 
-    ## License
-  MIT
+## Credit
+
+Jelani Thomas
+
+## Tests
+
+## GitHub
+
+GeloneJT
+
+## Email
+
+jelani13@icloud.com
+
+## Additional ways to reach me
+
+Email
+
+## License
+
+None
