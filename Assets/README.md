@@ -1,7 +1,7 @@
-# Pro README Gen
+# Professional README Generator
 
   ## Description
-  To create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
+  To create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
   ## Table of contents
   - [Installation](#installation)
@@ -10,29 +10,29 @@
   - [Tests](#tests)
   - [GitHub](#github)
   - [Email](#email)
-  - [Additional ways to reach me](#reachME)
+  - [Questions](#questions)
   - [License](#license)
 
   ## Installation
-  npm i iquirer
+  npm i inquirer
 
   ## Usage
-  node index
+  In the integrated terminal run node index via the index.js file
 
   ## Credit
   Jelani Thomas
 
   ## Tests
-  
+  None
 
   ## GitHub
   GeloneJT
 
   ## Email
-  jelani@email.com
+  jelani13@icloud.com
 
-  ## Additional ways to reach me
+  ## Questions
   Email
 
   ## License
-  [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+  No License applied

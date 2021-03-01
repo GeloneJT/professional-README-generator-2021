@@ -25,10 +25,11 @@ function generateMarkdown(data) {
   - [Tests](#tests)
   - [GitHub](#github)
   - [Email](#email)
-  - [Additional ways to reach me](#reachME)
+  - [Questions](#questions)
   - [License](#license)
 
   ## Installation
+  To start using this code follow these instructions
   ${data.installation}
 
   ## Usage
@@ -46,7 +47,7 @@ function generateMarkdown(data) {
   ## Email
   ${data.email}
 
-  ## Additional ways to reach me
+  ## Questions
   ${data.reachME}
 
   ## License

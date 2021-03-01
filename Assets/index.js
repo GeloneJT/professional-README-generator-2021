@@ -74,7 +74,7 @@ const questions = [
       },
       {
         name: "None",
-        value: "", }],
+        value: "No License applied", }],
   },
   {
     type: "input",
